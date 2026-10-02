@@ -1,2 +1,2 @@
 # nouveaunom.fr
-L'atelier de Nouveau Nom
+L'atelier du Nouveau Nom
